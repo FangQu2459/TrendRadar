@@ -1,9 +1,10 @@
 胖东来
-于东来
-
+ai
+人工智能
 DeepSeek
 梁文锋
-
+AI
+AGI
 华为
 鸿蒙
 HarmonyOS
@@ -22,26 +23,8 @@ DJI
 灵犀
 稚晖君
 彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
 !车
 !餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
 京东
 刘强东
 
@@ -51,6 +34,9 @@ bytedance
 
 特斯拉
 马斯克
+华尔街
+硅谷
+杭州
 
 微软
 Microsoft
@@ -72,16 +58,6 @@ sora
 
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
 自动驾驶
 
 机器人
